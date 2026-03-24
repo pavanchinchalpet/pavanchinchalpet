@@ -6,6 +6,17 @@
 </p>
 
 ---
+This is my **personal GitHub account** used for:
+
+- Learning & experiments
+- Practice projects
+- Exploring new technologies
+- Side projects
+
+🔗 **Official Professional GitHub Account (Production & Enterprise Projects):**  
+👉 https://github.com/pavan-chinchalpet
+
+---
 
 ## 🚀 About Me
 
