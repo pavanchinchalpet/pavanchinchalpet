@@ -30,13 +30,13 @@ https://github.com/pavan-chinchalpet
 
 ## Tech Stack
 
-### 💻 Frontend
+### Frontend
 - React.js
 - Next.js
 - TypeScript
 - Tailwind CSS
 
-### ⚙ Backend
+### Backend
 - Node.js
 - Express.js
 - REST APIs
@@ -44,7 +44,7 @@ https://github.com/pavan-chinchalpet
 - Rate Limiting
 - Middleware Architecture
 
-### 🗄 Database & DevOps
+###  Database & DevOps
 - MongoDB
 - Redis
 - Prisma
@@ -53,7 +53,7 @@ https://github.com/pavan-chinchalpet
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 LMS Platform
 Secure multi-role system with video streaming, assessments, coding challenges & analytics dashboards.
@@ -66,7 +66,7 @@ Manage doctors, patients & appointments efficiently.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavanchinchalpet&show_icons=true&theme=tokyonight" />
@@ -75,7 +75,7 @@ Manage doctors, patients & appointments efficiently.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - 📧 Email: pavanchinchalpet@gmail.com
 - 🌍 Portfolio: https://portfolio-pavanchinchalpet.vercel.app
