@@ -13,12 +13,12 @@ This is my **personal GitHub account** used for:
 - Exploring new technologies
 - Side projects
 
-🔗 **Official Professional GitHub Account (Production & Enterprise Projects):**  
-👉 https://github.com/pavan-chinchalpet
+**Official Professional GitHub Account (Production & Enterprise Projects):**  
+https://github.com/pavan-chinchalpet
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Architected and deployed scalable LMS platform serving **500+ active users**
 - ⚡ Optimized application load time from **3.75s → 0.5s**
@@ -28,7 +28,7 @@ This is my **personal GitHub account** used for:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### 💻 Frontend
 - React.js
@@ -83,7 +83,7 @@ Manage doctors, patients & appointments efficiently.
 
 ---
 
-⭐ "Code is not just syntax — it's system design, scalability, and impact."
+"Code is not just syntax — it's system design, scalability, and impact."
 
 <!--
 **pavanchinchalpet/pavanchinchalpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
