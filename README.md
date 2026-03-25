@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar Chinchalpet</h1>
+<h1 align="center">Hi , I'm Pavan Kumar Chinchalpet</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Next.js | IoT Systems</h3>
 
 <p align="center">
