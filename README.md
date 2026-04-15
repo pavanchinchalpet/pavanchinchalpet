@@ -20,11 +20,11 @@ https://github.com/pavan-chinchalpet
 
 ## About Me
 
-- 🔭 Architected and deployed scalable LMS platform serving **500+ active users**
-- ⚡ Optimized application load time from **3.75s → 0.5s**
-- 🧠 Reduced DB load by **70% using Redis caching & indexing**
-- 🌍 Passionate about IoT systems & real-time dashboards
-- 💼 Open to Full Stack / Backend Developer opportunities
+-  Architected and deployed scalable LMS platform serving **500+ active users**
+-  Optimized application load time from **3.75s → 0.5s**
+-  Reduced DB load by **70% using Redis caching & indexing**
+-  Passionate about IoT systems & real-time dashboards
+-  Open to Full Stack / Backend Developer opportunities
 
 ---
 
